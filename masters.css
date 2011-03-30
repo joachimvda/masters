@@ -1,0 +1,101 @@
+body {
+    background-image: url(bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: #000080;
+    font-family: arial, sans-serif;
+}
+
+a:link {
+    color: white;
+}
+a:visited {
+    color: yellow;
+}
+a:active {
+    color: yellow;
+}
+a:hover {
+    color: yellow;
+}
+
+.year {
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+.header {
+    text-align: center;
+    background-color: #D7D7FF;
+    color: black;
+    font-size: 11pt;
+}
+.advert {
+    text-align: center;
+}
+
+.header a:link {
+    color: black;
+}
+.header a:visited {
+    color: black;
+}
+.header a:active {
+    color: black;
+}
+.header a:hover {
+    color: blue;
+}
+
+
+.title {
+    text-align: center;
+    font-size: 15pt;
+    color: white;
+}
+
+.kalender {
+    text-align: center;
+    color: white;
+}
+
+.kalender-header {
+    background-color: #E6E6E6;
+    text-align: center;
+    color: black;
+}
+
+.kalender-header a:link {
+    color: black;
+}
+.kalender-header a:visited {
+    color: blue;
+}
+.kalender-header a:active {
+    color: blue;
+}
+.kalender-header a:hover {
+    color: blue;
+}
+
+tr {
+    text-align: center;
+    color: white;
+}
+
+table {
+margin-left: auto; margin-right: auto;
+    text-align: center;
+}
+
+.oproep {
+    font-size: 9pt;
+    color: #D7D7FF;
+    text-align: left;
+}
+
+.footer {
+    font-size: 8pt;
+    color: #D7D7FF;
+    text-align: right;
+}
